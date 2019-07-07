@@ -8,7 +8,7 @@ Step-by-step on how to use this application.
 4. Allow 'Storage' permissions.
 
 Note :
-You must add folder named "Basic" inside your original Android "Pictures" folder.
+You must add folder named "Basic" inside your original "Pictures" folder that located on your phone's Internal Storage.
 
 This application only show images from the "Basic" folder.
 
